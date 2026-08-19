@@ -29,7 +29,7 @@ Dieses Modul sampelt stattdessen den aktuellen Live-Wert der Quelle in einem fes
 
 ## Installation
 
-1. In der IP-Symcon-Konsole: **Modulverwaltung → Hinzufügen** und die URL dieses Repositories eintragen: `https://github.com/DG65/GleitenderMittelwert`
+1. In der IP-Symcon-Konsole: **Modulverwaltung → Hinzufügen** und die URL dieses Repositories eintragen: `https://github.com/DG65/NRGGleitenderMittelwert`
 2. Eine neue Instanz vom Typ **„Gleitender Mittelwert"** anlegen.
 
 ## Konfiguration
